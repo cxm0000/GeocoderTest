@@ -1,0 +1,7 @@
+{
+    "require": {
+        "willdurand/geocoder": "*",
+		"guzzle/guzzle": "*", 
+		"zendframework/zend-http": "*"
+    }
+}
